@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:WrKCu4XMVmBbZu6M@buracargo.plhssk9.mongodb.net/?retryWrites=true&w=majority&appName=buracargo",
+    "secretKey" : "mern-secret-key"
+}
